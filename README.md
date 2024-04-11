@@ -3,11 +3,11 @@
 
 - 🔭 Je bosse actuellement sur [Laravel](https://github.com/ClemMaz/test-app/)
 
-- Je maitrise **React & Symfony**
+- 🚀 Je maitrise **React & Symfony**
 
-- 📫 Me contacter **clementmazurkiewicz.dev@gmail.com**
+- 📫 Me contacter : **clementmazurkiewicz.dev@gmail.com**
 
-- ⚡ Fun fact **Pratiquant de MMA, ceinture marron de judo et joueur d'échecs.**
+- ⚡ **Pratiquant de MMA, ceinture marron de judo et joueur d'échecs.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
